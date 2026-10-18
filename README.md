@@ -1,6 +1,8 @@
-# Android Music Player with Spinning Gramophone
+# Platter "Your Music, is served."
 
-This is a code bundle for Android Music Player with Spinning Gramophone. 
+
+Attribution: Android Music Player with Spinning Gramophone.
+___
 
 The original project is available at https://www.figma.com/design/FCo8iLSAl7SN7j3hgiN0Mx/Android-Music-Player-with-Spinning-Gramophone--Community-.
 
